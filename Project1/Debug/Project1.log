@@ -1,0 +1,90 @@
+﻿  CMenu.cpp
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CMovil.h(37,71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CMovil.h(37,58): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CMovil.h(49,40): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CInyecciones.h(9,42): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CInyecciones.h(23,62): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CInyecciones.h(23,49): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\Aliado.h(5,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CControladora.h(37,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CControladora.h(66,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CControladora.h(72,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CControladora.h(85,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CControladora.h(96,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CControladora.h(112,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CControladora.h(119,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CControladora.h(132,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CControladora.h(146,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CControladora.h(147,22): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CControladora.h(157,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CControladora.h(168,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CControladora.h(169,22): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CControladora.h(179,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CControladora.h(183,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CControladora.h(187,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CControladora.h(193,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CControladora.h(199,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "CMenu.cpp")
+  
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CJuego.h(51,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "CMenu.cpp")
+  
+  Configuracion.cpp
+  Creditos.cpp
+  Ganar_Perder.cpp
+  Instruciones.cpp
+  Matematica.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CControladora.h(245,1): warning C4715: 'CControladora::menosVida': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Olidata\Downloads\Trabajo final\Project1\Project1\CControladora.h(254,1): warning C4715: 'CControladora::monedasRecogidas': no todas las rutas de acceso de control devuelven un valor
+  CMenu.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project1.vcxproj -> C:\Users\Olidata\Downloads\Trabajo final\Project1\Debug\Project1.exe
